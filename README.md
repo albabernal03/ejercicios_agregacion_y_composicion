@@ -1,1 +1,9 @@
-# ejercicios_agregacion_y_composicion
+<h1 align="center">	Ejercicios de composición y agregación</h1>
+
+<h2>Repositorio:</h2>
+
+Este es el link del [repositorio]
+
+***
+<h2>¿De qué trata esta tarea?</h2>
+
