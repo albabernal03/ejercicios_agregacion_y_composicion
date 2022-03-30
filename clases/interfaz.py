@@ -1,0 +1,1 @@
+class Interfaz_cristal:
