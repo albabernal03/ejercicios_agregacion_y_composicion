@@ -6,6 +6,13 @@ from clases.LosAngeles import LosAngeles
 from clases.NewYork import NewYork
 from clases.inmortal import Yin
 from clases.inmortal import Yang
+from clases.interfaz import Interfaz_cristal
+from clases.interfaz import Pared
+from clases.interfaz import Ventana
+from clases.interfaz import Casa
+from clases.interfaz import ParedCortina
+
+
 
 if __name__ == '__main__':
  Edificio_LA()
@@ -27,6 +34,12 @@ if __name__ == '__main__':
 if __name__ == '__main__':
   Yin()
   Yang()
-
+  
+if __name__ == '__main__':
+  Interfaz_cristal()
+  Pared()
+  Ventana()
+  Casa()
+  ParedCortina()
 
 
