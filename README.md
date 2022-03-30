@@ -119,6 +119,10 @@ Yang.__del__(yang)
 print("?") 
 ```
 
+**Corrección:**
+
+Lo que he hecho es linkear la clase del Yang correctamente.
+
 **UML:**
 
 <img width="469" alt="inmortal" src="https://user-images.githubusercontent.com/91721875/160868887-9f2539bf-4a81-44e9-9a17-b9ce1b55f33c.png">
