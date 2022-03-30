@@ -6,7 +6,10 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_agr
 
 ***
 <h2>¿De qué trata esta tarea?</h2>
+
+En esta tarea se nos proponen una serie de ejercicios los cuales se han de resolver a través de la agregación y composición.
 ***
+
 
 ## Índice 
 
