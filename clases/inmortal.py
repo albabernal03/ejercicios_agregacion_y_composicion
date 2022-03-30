@@ -1,3 +1,4 @@
+
 class Yin: pass 
 class Yang: 
     def __del__(self): 
@@ -9,9 +10,8 @@ yang = Yang()
 yin.yang = yang 
  
 
-print("?") 
-
 print(yang is yin.yang) 
-del(yang)
+Yang.__del__(yang)
+print("?") 
 
 
