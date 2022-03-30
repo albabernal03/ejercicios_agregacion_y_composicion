@@ -87,15 +87,14 @@ else:
 
 ## Ejercicio 2:<a name="id2"></a>
 
-´´´
-
-´´´
+```
+```
 ***
 
 ## Ejercicio 3:<a name="id3"></a>
 
 
-´´´
+```
 class Interfaz_cristal:
   class Pared:
     def __init__(self, orientacion):
@@ -139,5 +138,5 @@ print(Interfaz_cristal.Casa.__init__('self', 'paredes'))
 print(Interfaz_cristal.ParedCortina.__init__('Pared', 'Ventana'))
 
 
-´´´
+```
 ***
