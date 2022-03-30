@@ -95,6 +95,10 @@ else:
 
 ## Ejercicio 2:<a name="id2"></a>
 
+**Enunciado:**
+
+*Teniendo en cuenta el siguiente código(se muestra en la tarea), explique por qué el mensaje Yang destruido, se muestra después del signo de interrogación. ¿Qué hay que hacer para que aparezca antes?*
+
 **Código:**
 
 ```
