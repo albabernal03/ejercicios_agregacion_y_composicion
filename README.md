@@ -128,6 +128,10 @@ print("?")
 
 ## Ejercicio 3:<a name="id3"></a>
 
+**Enunciado:**
+
+*Modifique las clases Ventana y ParedCortina para que usen esta nueva clase-interfaz Cristal.*
+
 **Código:**
 
 ```
