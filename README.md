@@ -86,3 +86,12 @@ else:
 
 
 ## Ejercicio 2:<a name="id2"></a>
+
+´´´
+
+´´´
+
+## Ejercicio 3:<a name="id3"></a>
+
+
+´´´
