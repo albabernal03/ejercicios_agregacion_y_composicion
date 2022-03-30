@@ -19,6 +19,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_agr
 
 ## Ejercicio 1:<a name="id1"></a>
 
+**Código:**
 ```
 class NewYork:
     def __del__(self):
@@ -87,6 +88,8 @@ else:
 
 ## Ejercicio 2:<a name="id2"></a>
 
+**Código:**
+
 ```
 
 class Yin: pass 
@@ -114,6 +117,7 @@ print("?")
 
 ## Ejercicio 3:<a name="id3"></a>
 
+**Código:**
 
 ```
 class Interfaz_cristal:
