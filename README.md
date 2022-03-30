@@ -22,6 +22,10 @@ En esta tarea se nos proponen una serie de ejercicios los cuales se han de resol
 
 ## Ejercicio 1:<a name="id1"></a>
 
+**Enunciado:**
+*Modelar lo siguiente. Una empresa es propietaria de varios edificios y emplea a varios empleados. Un edificio está necesariamente ubicado en una ciudad y una ciudad está formada por varios edificios. Empresa, empleado, ciudad y edificio tienen cada uno un nombre. Estas ciudades incluyen New York, donde se encuentran los edificios A y B, y Los Ángeles, donde está el edificio C. Estos tres edificios son propiedad de YooHoo! que emplea a los Sres. Martin, Salim y la Sra. Xing.
+
+
 **Código:**
 ```
 class NewYork:
