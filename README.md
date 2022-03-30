@@ -160,4 +160,10 @@ print(Interfaz_cristal.ParedCortina.__init__('Pared', 'Ventana'))
 
 
 ```
+
+**UML:**
+
+<img width="654" alt="herencia" src="https://user-images.githubusercontent.com/91721875/160872300-fe19c7ac-de31-4ddc-ba37-85f2b98b58b6.png">
+
+
 ***
