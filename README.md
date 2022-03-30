@@ -90,6 +90,7 @@ else:
 ´´´
 
 ´´´
+***
 
 ## Ejercicio 3:<a name="id3"></a>
 
@@ -139,4 +140,4 @@ print(Interfaz_cristal.ParedCortina.__init__('Pared', 'Ventana'))
 
 
 ´´´
-
+***
