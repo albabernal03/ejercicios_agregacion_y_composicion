@@ -86,26 +86,3 @@ else:
 
 
 ## Ejercicio 2:<a name="id2"></a>
-
-**Opción 1:**
-
-```
-class Yin: pass 
-class Yang: 
-    def __del__(self): 
-        print("Yang destruido") 
-      
- 
-yin = Yin() 
-yang = Yang() 
-yin.yang = yang 
- 
-
-print("?") 
-
-print(yang is yin.yang) 
-del(yang)
-
-```
-**Opción 2:**
-
