@@ -78,7 +78,8 @@ else:
 
 **UML:**
 
-<img width="812" alt="diagrama catástrofe" src="https://user-images.githubusercontent.com/91721875/160846028-73c5164c-086f-4d85-a9ac-19f701d21389.png">
+<img width="804" alt="diagrama catastrofe" src="https://user-images.githubusercontent.com/91721875/160852850-2d2ba61f-b223-4bd8-bc70-31b5487c4be2.png">
+
 
 
 ***
