@@ -10,9 +10,9 @@ Este es el link del [repositorio](https://github.com/albabernal03/ejercicios_agr
 
 ## Índice 
 
-1. ekdf
-2. fif
-3. jf
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercicio 3](#id3)
 
 ***
 
@@ -75,6 +75,12 @@ else:
     print('La opción seleccionada no es válida')
 
 ```
+
+**UML:**
+
+<img width="804" alt="diagrama catastrofe" src="https://user-images.githubusercontent.com/91721875/160852850-2d2ba61f-b223-4bd8-bc70-31b5487c4be2.png">
+
+
 
 ***
 
